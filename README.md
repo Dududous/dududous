@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eduardo henrique drumm menezes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo henrique drumm menezes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eduardo henrique drumm menezes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo-henrique-drumm-menezes" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/dududous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dududous" height="30" width="40" /></a>
 </p>
 
