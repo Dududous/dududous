@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo Menezes</h1>  
 <h3 align="center">Computer engineering student at UFRGS</h3>
   
-- 🌱 I’m currently learning **Machine Learning**  
+- 🌱 I’m currently learning **Machine Learning**   
  
 - 💬 Ask me about **Competitive Programming**  
 
