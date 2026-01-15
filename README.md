@@ -2,11 +2,11 @@
 
 ###
 
-<h2 align="center">Computer engineering student at UFRGS  | ML Intern</h2>
+<h2 align="center">Computer engineering student at UFRGS | ML Intern | xAI Researcher </h2>
 
 ###
 
-<p align="left">🌱 I’m currently learning Machine Learning<br><br>💬 Ask me about Competitive Programming</p>
+<p align="left">🌱 I’m currently learning Machine Learning<br>🔬 Researching on xAI and explanable models<br>💬 Ask me about Competitive Programming</p>
 
 ###
 
