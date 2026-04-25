@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Computer engineering student at UFRGS | ML Intern | xAI Researcher </h2>
+<h2 align="center">  ML Engineer | xAI Researcher | Computer engineering student at UFRGS </h2>
 
 ###
 
